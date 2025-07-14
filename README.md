@@ -88,12 +88,14 @@ I’m always open to exploring new opportunities, exchanging ideas, and working 
 ---
 
 ### Thakshila's Github Activity Graphs:
-<p>&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=thakshila-prasadanee&show_icons=true&locale=en" alt="thakshila-prasadanee" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thakshila-prasadanee&" alt="thakshila-prasadanee" />
+<p align="center">&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thakshila-prasadanee&show_icons=true&locale=en" alt="thakshila-prasadanee" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thakshila-prasadanee&show_icons=true&locale=en&layout=compact" alt="thakshila-prasadanee" />
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thakshila-prasadanee&show_icons=true&locale=en&layout=compact" alt="thakshila-prasadanee" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thakshila-prasadanee&" alt="thakshila-prasadanee" />
+</p>
 
 ---
 
